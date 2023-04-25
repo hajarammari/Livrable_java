@@ -1,0 +1,4 @@
+"The Legend of Zelda: Breath of the Wild"| "Action-adventure" | 2017 | 59.99| 10
+"Minecraft"| "Sandbox"| 2011| 26.95| 9
+"Grand Theft Auto V"| "Action-adventure"| 2013| 29.99 | 8
+"Among Us"| "Social deduction"| 2018| 5.99| 8

@@ -15,7 +15,7 @@ import java.util.Iterator;
 public class ReadFromSpreadsheet {
     static XSSFRow row;
     public static void main(String[] args) throws Exception {
-        try(FileInputStream fis = new FileInputStream(new File("src/main/resources/employeeInfo.xlsx")))
+        try(FileInputStream fis = new FileInputStream(new File("src/main/resources/gamesExcel.xlsx")))
         {
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
